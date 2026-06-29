@@ -1,7 +1,7 @@
 # 👋 Welcome to StackZen
 
 <p align="center">
-  <img src="https://via.placeholder.com/" width="120" alt="StackZen Logo">
+  <img src="assets/logo.png" width="120" alt="StackZen Logo">
 </p>
 
 <h2 align="center">AI-powered Engineering Knowledge Platform</h2>
