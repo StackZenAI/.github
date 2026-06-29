@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StackZenAI/.github/main/assets/logo.png" width="180" alt="StackZen Logo">
+  <img src="https://raw.githubusercontent.com/StackZenAI/.github/main/assets/logo.png" alt="StackZen Logo" width="180">
 </p>
 
 <h1 align="center">StackZen</h1>
@@ -9,81 +9,157 @@
 </p>
 
 <p align="center">
-Helping developers understand codebases instantly using AI.
+Helping developers understand codebases, documentation, APIs, databases, and technical knowledge instantly using AI.
 </p>
 
 <p align="center">
 
-![Build in Public](https://img.shields.io/badge/Build-In_Public-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+<a href="https://github.com/StackZenAI">
+<img src="https://img.shields.io/badge/Build-In%20Public-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/StackZenAI">
+<img src="https://img.shields.io/badge/Open%20Source-Coming%20Soon-success?style=for-the-badge">
+</a>
+
+<a href="https://github.com/StackZenAI">
+<img src="https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge">
+</a>
 
 </p>
 
 ---
 
-# 🚀 What is StackZen?
+## 🚀 About StackZen
 
-StackZen is an AI-powered engineering knowledge platform designed to help developers understand software projects faster.
+StackZen is building an AI-powered engineering knowledge platform that helps developers understand software projects in minutes instead of hours.
 
-Instead of spending hours searching through documentation, API specifications, database schemas, Git repositories, architecture diagrams, and meeting notes, developers can simply ask questions in natural language and receive accurate, source-backed answers powered by Retrieval-Augmented Generation (RAG).
-
----
-
-# ✨ Why StackZen?
-
-- 📚 Centralized engineering knowledge
-- 🤖 AI-powered semantic search
-- 🔍 Source-backed answers with citations
-- 🗄️ Database schema understanding
-- 🔌 API documentation search
-- 📄 Intelligent document retrieval
-- 💬 Meeting notes search
-- 🏗️ Codebase understanding
+Instead of searching across documentation, API specifications, Git repositories, database schemas, architecture diagrams, meeting notes, and internal resources, developers simply ask questions in natural language and receive accurate, source-backed answers.
 
 ---
 
-# 🛠 Tech Stack
+## ✨ What StackZen Understands
 
-| Technology | Purpose |
-|------------|----------|
-| ⚡ FastAPI | Backend API |
-| 🐘 PostgreSQL | Database |
-| 📦 pgvector | Vector Search |
-| 🤖 LangChain | RAG Pipeline |
-| ✨ Google Gemini | LLM |
-| 🐳 Docker | Containerization |
-| ⚙️ Redis | Caching |
-| 🔄 Celery | Background Tasks |
+<p align="center">
+
+📚 Documentation &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+🔌 API Specifications &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+🗄 Database Schemas
+
+<br><br>
+
+💻 Source Code &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+📂 Git Repositories &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+📝 Meeting Notes
+
+<br><br>
+
+🏗 Architecture Documents &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+📄 PDFs &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+📑 Internal Wikis
+
+</p>
 
 ---
 
-# 🌱 Build in Public
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<strong>FastAPI</strong> •
+<strong>PostgreSQL</strong> •
+<strong>pgvector</strong> •
+<strong>LangChain</strong> •
+<strong>Google Gemini</strong> •
+<strong>Docker</strong> •
+<strong>Redis</strong> •
+<strong>Celery</strong>
+
+</p>
+
+---
+
+## 🎯 Our Mission
+
+<p align="center">
+
+Help developers spend less time searching for information
+
+and more time building amazing software.
+
+</p>
+
+---
+
+## 🌱 Build in Public
 
 We're building StackZen completely in public.
 
 Every week we'll share:
 
-- 🏗️ Architecture
-- 💡 Technical decisions
-- 🚀 Development progress
-- 🧩 Challenges
-- 📖 Lessons learned
+✅ Product Progress
+
+✅ Architecture Decisions
+
+✅ Engineering Challenges
+
+✅ Technical Learnings
+
+✅ Development Updates
+
+Follow our journey as we build StackZen from scratch.
 
 ---
 
-# 🎯 Our Mission
+## 👥 Founding Team
 
-> Help developers spend less time searching for information and more time building software.
+<p align="center">
+
+👨‍💻 Sri Ramakanth
+
+Founder & Backend Engineer
+
+<br><br>
+
+👩‍💻 Pikkili Harika
+
+Co-Founder
+
+</p>
+
+---
+
+## 📂 Repositories
+
+| Repository | Description |
+|------------|-------------|
+| **stackzen** | Main product |
+| **.github** | Organization profile |
+
+---
+
+## ⭐ Support Us
+
+If you like what we're building,
+
+⭐ Star our repositories
+
+💬 Share your feedback
+
+🚀 Follow our Build in Public journey
 
 ---
 
 <p align="center">
 
-⭐ Star our repositories if you'd like to follow the journey.
+Made with ❤️ by the StackZen Team
 
-Made with ❤️ by the StackZen Team.
+Building the future of Engineering Knowledge.
 
 </p>
